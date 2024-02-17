@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.gray-color {
+    width: 1380px;
+    height: 90px;
+    background-color: #FAFAFA;
+    border-radius: 70px;
+    margin-top: 10px;
+}
+
+.white-color {
+    width: 571px;
+    height: 60px;
+    background-color: #fff;
+    border-radius: 40px;
+}
+
+.btn {
+    background-color: white;
+    border-radius: 50px;
+    border: 1px solid black;
+    display: flex;
+
+}
+
+.content-text {
+    padding: 20px;
+}
