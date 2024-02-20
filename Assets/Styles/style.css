@@ -9,6 +9,10 @@ body p {
     font-size: 18px;
 }
 
+.mt-6 {
+    margin-top: 100px;
+}
+
 .container-gray {
     width: 1360px;
     height: 90px;
@@ -82,4 +86,26 @@ body p {
 
 .input-box {
     margin-top: 130px;
+}
+
+.arrow-icon i {
+    margin: 10px;
+}
+
+.arrow-icon i:hover {
+    cursor: pointer;
+    color: #FF791A;
+}
+
+.arrow-black i {
+    background-color: #000;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.three-box {
+    width: 447px;
+    height: 438px;
+    border: 1px solid #000;
 }
