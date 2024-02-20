@@ -5,8 +5,9 @@
     font-family: sans-serif;
 }
 
-
-
+body p {
+    font-size: 18px;
+}
 
 .container-gray {
     width: 1360px;
@@ -30,7 +31,7 @@
 .btn-one {
     width: 158px;
     height: 60px;
-    border: 1px solid black;
+    border: 1px solid rgb(243, 243, 243);
     border-radius: 40px;
     background-color: #ffffff; 
 }
@@ -40,9 +41,21 @@
     height: 617px;
 }
 
-.header-one p {
-    position: fixed;
-    top: 0px;
+.font-head {
+    font-size: 50px;
+}
+
+.section-three i {
+    font-size: 35px;
+    color: #58BF52;
+}
+
+.font-head-two {
+    font-size: 30px;
+}
+
+.section-three {
+    margin-top: 70px;
 }
 
 
