@@ -87,20 +87,20 @@ body p {
 
 .section-three i {
     margin-top: 70px;
-    font-size: 30px;
+    font-size: 40px;
     color: #58BF52;
 }
 
 .section-four i {
     color: #FF791A;
     margin-top: 70px;
-    font-size: 30px;
+    font-size: 40px;
 }
 
 .section-five i {
     color: #3741B5;
     margin-top: 70px;
-    font-size: 30px;
+    font-size: 40px;
 }
 
 .input-box input {
@@ -140,6 +140,6 @@ body p {
     width: 447px;
     height: 438px;
     border: 1px solid #000;
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
