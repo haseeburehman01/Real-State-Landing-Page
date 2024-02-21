@@ -2,11 +2,18 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: sans-serif;
+    font-family: poppins;
+}
+
+.container-fixed {
+    max-width: 1380px;
+    margin: 0px auto;
+    padding: 0px 40px;
 }
 
 body p {
-    font-size: 18px;
+    font-size: 16px;
+    line-height: 24px;
 }
 
 .mt-6 {
@@ -27,6 +34,10 @@ body p {
     background-color: #ffffff;
 }
 
+.nav-content i {
+    font-size: 30px;
+}
+
 .nav-content a {
     text-decoration: none;
     color: #000;
@@ -40,16 +51,37 @@ body p {
     background-color: #ffffff; 
 }
 
+.hero-section {
+    background-image: url(../Images/Rectangle\ 14.png);
+    width: 100%;
+    height: 617px;
+    border-radius: 25px;
+    margin-top: 30px;
+}
+
 .header-one img {
     width: 100%;
     height: 617px;
 }
 
-.font-head {
-    font-size: 50px;
+.hero-section>div input {
+    width: 370px;
+    height: 60px;
+    padding: 10px;
+    border-radius: 40px;
+    border: none;
 }
 
-.font-head-two {
+.hero-section>div button {
+    background-color: #000;
+    color: #fff;
+}
+
+.font-50 {
+    font-size: 60px;
+}
+
+.font-head-30 {
     font-size: 30px;
 }
 
@@ -104,8 +136,10 @@ body p {
     border-radius: 10px;
 }
 
-.three-box {
+.card-container {
     width: 447px;
     height: 438px;
     border: 1px solid #000;
+    border-radius: 10px;
 }
+
