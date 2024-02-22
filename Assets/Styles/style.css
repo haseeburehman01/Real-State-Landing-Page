@@ -13,7 +13,7 @@
 
 body p {
     font-size: 16px;
-    line-height: 24px;
+    line-height: 26px;
 }
 
 .mt-6 {
@@ -51,13 +51,17 @@ body p {
     background-color: #ffffff; 
 }
 
-.hero-section {
+.hero-image {
+    width: 60%;
+}
+
+/* .hero-section {
     background-image: url(../Images/Rectangle\ 14.png);
     width: 100%;
     height: 617px;
     border-radius: 25px;
     margin-top: 30px;
-}
+} */
 
 .header-one img {
     width: 100%;
@@ -65,7 +69,7 @@ body p {
 }
 
 .hero-section>div input {
-    width: 370px;
+    width: 350px;
     height: 60px;
     padding: 10px;
     border-radius: 40px;
@@ -137,9 +141,31 @@ body p {
 }
 
 .card-container {
-    width: 447px;
-    height: 438px;
-    border: 1px solid #000;
+    width: 400px;
+    height: 455px;
+    border: 1px solid #BEBEBE;
     border-radius: 15px;
+}
+
+.btn-book {
+    width: 153px;
+    height: 60px;
+    border: none;
+    border-radius: 40px;
+    color: #fff;
+    background-color: #000;
+}
+
+.read-more {
+    width: 153px;
+    height: 60px;
+    border: 1px solid #000;
+    border-radius: 40px;
+    color: #000;
+    background-color: #FEFEFF;
+}
+
+.transfer-box img {
+    width: 100%;
 }
 
