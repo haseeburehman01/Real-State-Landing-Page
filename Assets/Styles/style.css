@@ -6,9 +6,9 @@
 }
 
 .container-fixed {
-    max-width: 1380px;
+    max-width: 1400px;
     margin: 0px auto;
-    padding: 0px 40px;
+    /* padding: 0px 40px; */
 }
 
 body p {
